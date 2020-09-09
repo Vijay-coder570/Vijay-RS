@@ -39,12 +39,6 @@ public class SwaggerConfig {
 		
 	}
 	
-	//swagger 2
-	//All the paths
-	// All the apis
-	
-//For our application, we will create a Docket bean in a Spring Boot configuration to configure Swagger 2 for the application. 
-// A Springfox Docket instance provides the primary API configuration with sensible defaults and convenience methods for configuration.
 	
 }
 
